@@ -1,0 +1,18 @@
+{
+  "name": "revisioningg",
+  "version": "1.0.0",
+  "description": "Changes temperature from celcius to kelvin or from kelvin to celcius",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "celcius",
+    "kelvin"
+  ],
+  "author": "Laure",
+  "license": "ISC",
+  "dependencies": {
+    "revisioningg": "^1.0.0"
+  }
+}
